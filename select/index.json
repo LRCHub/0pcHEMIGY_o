@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "STEP BAE-YOND",
+  "base_artist": "BAE",
+  "createdAt": "2026-04-06T03:11:32.809223Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STEP BAE-YOND",
+      "artist": "BAE",
+      "has_synced": false,
+      "path": "select/pl_01_STEP_BAE-YOND_BAE.txt"
+    }
+  ]
+}
